@@ -35,7 +35,7 @@ Experience the revolutionary 3D Fidget Spinner web application - your ultimate s
 
 ##### Grace Shoppings | Fullstack Engineer, Project Manager
 📅 April 2023
-- 🔗 [GitHub]()
+- 🔗 [GitHub](https://github.com/2301-fsa-et-web-ft-af-graceshopper-g1/grace_shopper)
 
 2000s E-commerce Site
 
