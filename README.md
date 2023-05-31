@@ -7,11 +7,11 @@ About Me
 
 I'm a dedicated and ambitious software engineer with a strong focus on front-end and full-stack development using the PERN Stack. I thrive on challenges and enjoy pushing myself to deliver high-quality, innovative applications. As a relentless problem-solver, I am constantly seeking opportunities to expand my skills and take on new challenges. Let's connect and embark on a journey to create exceptional software solutions that surpass expectations!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hlin/)
+
 ### Did You Know?
 
 💡 Fun Fact: In my previous sales role, I used to chase people down blocks to get leads and close sales! 🥷 I bring that same level of persistence and determination to my work as a software engineer 💼🏃‍♂️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hlin/)
 
 Projects
 --------------
