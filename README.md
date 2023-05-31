@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hlin/)
-
-
 About Me
 --------------
 
@@ -13,6 +10,8 @@ I'm a dedicated and ambitious software engineer with a strong focus on front-end
 ### Did You Know?
 
 💡 Fun Fact: In my previous sales role, I used to chase people down blocks to get leads and close sales! 🥷 I bring that same level of persistence and determination to my work as a software engineer 💼🏃‍♂️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hlin/)
 
 Projects
 --------------
