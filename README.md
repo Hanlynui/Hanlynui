@@ -27,7 +27,7 @@ Embark on an extraordinary virtual stock trading journey with RITH Trading Corp.
 ##### Fidget Spinner 3D | Software Engineer
 📅 April 2023
 - 🔗 [Github](https://github.com/Hanlynui/Stress-Relief-Ultra)
-- 💻 [Website](https://rith-trading.onrender.com/)
+- 💻 [Website](https://3d-fidget-spinner.com/)
 
 3D Fidget Spinner app using Three.js, React.js, HTML5, and CSS3.
 
