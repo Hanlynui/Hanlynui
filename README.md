@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hlin/)
+
+
 About Me
 --------------
 
