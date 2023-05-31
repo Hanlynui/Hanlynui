@@ -42,6 +42,6 @@ Experience the revolutionary 3D Fidget Spinner web application - your ultimate s
 Stats
 --------------
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,threejs,html,css,postgres,express,nodejs,py,webpack,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,git,threejs,html,css,postgres,express,nodejs,py,webpack)](https://skillicons.dev)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanlynui&count_private=true&show_icons=true&theme=dark)
 
