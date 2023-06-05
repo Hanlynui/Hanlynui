@@ -45,4 +45,4 @@ Stats
 --------------
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,git,threejs,html,css,postgres,express,nodejs,py,webpack)](https://skillicons.dev)
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hanlynui&count_private=true&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hanlynui&count_private=true&show_icons=true&theme=tokyonight)
