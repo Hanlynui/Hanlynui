@@ -17,7 +17,7 @@ Projects
 --------------
 
 ##### RITH Trading Corp | Project Manager, Lead Front End Software Engineer
-📅 May 2023
+🗓️ May 2023
 - 🎥 [Video](https://www.youtube.com/watch?v=CEUu0Cvp3uU)
 - 🔗 [GitHub](https://github.com/CapstoneGroupThree/Robin-In-the-Hood-Trading-Corp-1)
 - 💻 [Website](https://rith-trading.onrender.com/)
@@ -27,7 +27,7 @@ Virtual Stock Trading Website Powered by AI
 Embark on an extraordinary virtual stock trading journey with RITH Trading Corp. Experience the fusion of finance and gaming, immersing yourself in sleek design and stunning graphics. Gain valuable market insights and make informed investment decisions while engaging with our AI-powered stock trading assistant. Join RITH Trading Corp today and redefine your path to financial success while forging a unique connection with our AI companion.
 
 ##### Fidget Spinner 3D | Software Engineer
-📅 April 2023
+🗓️ April 2023
 - 🔗 [Github](https://github.com/Hanlynui/Stress-Relief-Ultra)
 - 💻 [Website](https://3d-fidget-spinner.com/)
 
@@ -36,7 +36,7 @@ Embark on an extraordinary virtual stock trading journey with RITH Trading Corp.
 Experience the revolutionary 3D Fidget Spinner web application - your ultimate stress relief companion!
 
 ##### Grace Shoppings | Fullstack Engineer, Project Manager
-📅 April 2023
+🗓️ April 2023
 - 🔗 [GitHub](https://github.com/2301-fsa-et-web-ft-af-graceshopper-g1/grace_shopper)
 
 2000s E-commerce Site
