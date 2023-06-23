@@ -20,7 +20,6 @@ Projects
 🗓️ May 2023
 - 🎥 [Video](https://www.youtube.com/watch?v=CEUu0Cvp3uU)
 - 🔗 [GitHub](https://github.com/CapstoneGroupThree/Robin-In-the-Hood-Trading-Corp-1)
-- 💻 [Website](https://rith-trading.onrender.com/)
 
 Virtual Stock Trading Website Powered by AI
 
