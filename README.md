@@ -13,6 +13,10 @@ I'm a dedicated and ambitious fullstack software engineer with a strong focus on
 
 💡 Fun Fact: In my previous sales role, I used to chase people down blocks to get leads and close sales! 🥷 I bring that same level of persistence and determination to my work as a software engineer 💼🏃‍♂️
 
+**Certifications**
+🗓️ July 2023 [AWS Certified Developer Associate](https://hyldocs.s3.amazonaws.com/AWS+Certified+Developer+-+Associate+certificate.pdf)
+🗓️ June 2023 [AWS Certified Cloud Practitioner](https://hyldocs.s3.amazonaws.com/AWS+Certified+Cloud+Practitioner+certificate.pdf)
+
 Projects
 --------------
 
