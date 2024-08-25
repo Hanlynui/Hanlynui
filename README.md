@@ -24,7 +24,7 @@ Projects
 ##### LangTrain | Project Manager, Fullstack Software Engineer
 🗓️ August 2024
 - 🎥 [Video]Pending...
-- 🔗 [GitHub]([https://github.com/LangTrain/LangTrain-App])
+- 🔗 [GitHub](https://github.com/LangTrain/LangTrain-App)
 
 AI-Powered Language Teaching Mobile App
 
